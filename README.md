@@ -1,19 +1,4 @@
-# Welcome to Gai's World ✌🏼
-
-## About me
-### Work Experience
-🧪 Junior Agile Tester @tts knowledge Products GmbH
- 
-
-### Education
-🧑🏼‍🎓 Bachelor of Science - Business Information Management
-
-
-## Hobbies
-🏀 Basketball
-
-🧑🏼‍🍳 Cooking
-
+![Header](https://github.com/gaiisay/gaiisay/blob/main/header.png?raw=true)
 
 ## Tech Stack
 ### Currently learning
@@ -31,6 +16,23 @@
 🥒 Cucumber
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
  Playwright
+
+## About me
+### Work Experience
+🧪 Junior Agile Tester @tts knowledge Products GmbH
+ 
+
+### Education
+🧑🏼‍🎓 Bachelor of Science - Business Information Management
+
+
+## Hobbies
+🏀 Basketball
+
+🧑🏼‍🍳 Cooking
+
+
+
 
 
 
