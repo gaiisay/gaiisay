@@ -23,6 +23,11 @@ I am Gai, a former QA Engineer who is currently attending a Web Development Boot
 ![Cucumber](https://img.shields.io/badge/cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-44BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+
+
 
 ## Hobbies
 In me free time I love to play basketball
