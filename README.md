@@ -30,7 +30,7 @@ I am Gai, a former QA Engineer who is currently attending a Web Development Boot
 
 
 ## Hobbies
-In me free time I love to play basketball
+In my free time I love to play basketball
 
 <img alt="Steph Curry shot" src="https://64.media.tumblr.com/8722b5e53b76bb34f4023174cf78887b/tumblr_mshlcaB6Oc1qcmnsoo1_r2_400.gifv" width="480" height="270">
 
